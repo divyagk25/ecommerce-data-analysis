@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Data Analysis
+#  E-Commerce Data Analysis
 ## Online Shopping Trends, Customer Behavior & Sales Performance
 
 ---
@@ -124,9 +124,11 @@ This project demonstrates how structured data analysis can uncover meaningful in
 ---
 
 ## 11. Repository Structure
-```text
-notebooks/        → Jupyter notebook with full analysis  
-reports/          → Detailed project report  
-images/           → Visual outputs used in this README  
-data/raw/         → Raw data source description  
-data/processed/   → Processed data description  
+
+ notebooks/        → Jupyter notebook with full analysis  
+ reports/          → Detailed project report  
+ images/           → Visual outputs 
+ 
+## 12. Tools & Technologies
+
+Python • Pandas • NumPy • SQLite • Matplotlib • Seaborn • Jupyter Notebook
